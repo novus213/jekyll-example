@@ -10,8 +10,8 @@ relative_permalinks: true
 # Setup
 title:               Jekyll Example
 tagline:             Basic example of a Jekyll site with Sass enabled.
-url:                 http://mdo.github.io/jekyll-example
-baseurl:             /jekyll-example/
+url:                
+baseurl:
 
 # Assets
 #
